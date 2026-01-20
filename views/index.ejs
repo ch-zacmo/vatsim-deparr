@@ -1,0 +1,25 @@
+<div class="airport-selector">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <h1 class="text-center mb-4">Select Airport</h1>
+
+      <div class="search-box mb-4">
+        <input
+          type="text"
+          id="airportSearch"
+          class="form-control form-control-lg"
+          placeholder="Search by ICAO, IATA, or name..."
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="airport-list" id="airportList">
+        <div class="loading">Loading airports...</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  window.PAGE_TYPE = 'index';
+</script>

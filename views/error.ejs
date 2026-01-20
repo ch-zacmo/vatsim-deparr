@@ -1,0 +1,31 @@
+<div class="error-page">
+  <div class="error-content">
+    <h1><%= title %></h1>
+    <p><%= message %></p>
+    <a href="/" class="btn btn-outline-light">Back to Home</a>
+  </div>
+</div>
+
+<style>
+  .error-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+    text-align: center;
+  }
+  .error-content h1 {
+    color: var(--fids-red);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  .error-content p {
+    color: var(--fids-text-dim);
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+</style>
+
+<script>
+  window.PAGE_TYPE = 'error';
+</script>

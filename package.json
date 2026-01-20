@@ -1,0 +1,32 @@
+{
+  "name": "vatsim-deparr",
+  "version": "1.1.0",
+  "description": "Simulated departure and arrival screen found in airports from VATSIM data",
+  "license": "MIT",
+  "author": "Zacharie Monnet <zacmo-dev@axynth.ch>",
+  "type": "commonjs",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development --watch",
+    "fetch-gates": "node scripts/fetch-gates.js",
+    "fetch-gates:force": "node scripts/fetch-gates.js --force",
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "ejs": "^3.1.10",
+    "express": "^4.22.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^7.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.104.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

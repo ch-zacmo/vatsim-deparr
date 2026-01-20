@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= title %></title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+  <style>
+    body { padding: 0; margin: 0; }
+    .embed-container { padding: 10px; padding-bottom: 50px; }
+  </style>
+</head>
+<body class="embed-mode">
+  <div class="embed-container">
+    <%- body %>
+  </div>
+  <footer class="fixed-footer embed-footer">
+    <span class="warning-text">These are not real flight data!</span>
+    <span class="embed-clock" id="clock"></span>
+    <div class="time-toggle">
+      <label class="toggle-switch">
+        <input type="checkbox" id="timeToggle">
+        <span class="toggle-slider"></span>
+      </label>
+      <span class="toggle-label" id="timeLabel">UTC</span>
+    </div>
+  </footer>
+  <script src="/dist/main.bundle.js"></script>
+</body>
+</html>

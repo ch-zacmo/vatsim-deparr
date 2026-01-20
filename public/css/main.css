@@ -1,0 +1,723 @@
+/* VATSIM Deparr - Classic FIDS Styling */
+
+:root {
+  --fids-bg: #0a0a0a;
+  --fids-bg-alt: #111111;
+  --fids-text: #ffffff;
+  --fids-text-dim: #888888;
+  --fids-green: #00ff00;
+  --fids-yellow: #ffcc00;
+  --fids-red: #ff3333;
+  --fids-blue: #00aaff;
+  --fids-font: 'Share Tech Mono', 'Courier New', monospace;
+  --glow-green: 0 0 10px rgba(0, 255, 0, 0.5);
+  --glow-yellow: 0 0 10px rgba(255, 204, 0, 0.5);
+  --glow-red: 0 0 10px rgba(255, 51, 51, 0.5);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--fids-bg);
+  color: var(--fids-text);
+  font-family: var(--fids-font);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--fids-bg-alt);
+  border-bottom: 2px solid #333;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+  color: var(--fids-text) !important;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.brand-text {
+  color: var(--fids-blue);
+  font-weight: bold;
+}
+
+.clock {
+  color: var(--fids-yellow);
+  font-size: 1.25rem;
+  text-shadow: var(--glow-yellow);
+}
+
+/* Navbar layout */
+.navbar .container-fluid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-warning {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.info-link {
+  color: var(--fids-text) !important;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 0.25rem 0.75rem;
+  border: 1px solid #444;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.info-link:hover {
+  background-color: #333;
+  border-color: var(--fids-yellow);
+  color: var(--fids-yellow) !important;
+}
+
+/* Warning text */
+.warning-text {
+  color: var(--fids-red);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+  animation: warning-pulse 2s infinite;
+}
+
+@keyframes warning-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+/* Fixed footer */
+.fixed-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--fids-bg-alt);
+  border-top: 2px solid #333;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  z-index: 1000;
+}
+
+.footer-info {
+  color: var(--fids-text-dim);
+  font-size: 0.8rem;
+}
+
+.footer-info a {
+  color: var(--fids-blue);
+  text-decoration: none;
+}
+
+.footer-info a:hover {
+  text-decoration: underline;
+}
+
+.footer-copyright {
+  color: var(--fids-text-dim);
+  font-size: 0.8rem;
+}
+
+/* Embed warning bar */
+.embed-warning-bar {
+  background-color: var(--fids-bg-alt);
+  border-bottom: 1px solid #333;
+  padding: 0.4rem;
+  text-align: center;
+}
+
+.embed-footer {
+  padding: 0.5rem 1rem;
+  gap: 1.5rem;
+}
+
+.embed-footer .warning-text {
+  font-size: 0.75rem;
+}
+
+.embed-clock {
+  color: var(--fids-yellow);
+  font-size: 1rem;
+  text-shadow: var(--glow-yellow);
+}
+
+/* Time Toggle Switch */
+.time-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggle-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #333;
+  border: 1px solid #555;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.toggle-slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 2px;
+  bottom: 2px;
+  background-color: var(--fids-yellow);
+  border-radius: 50%;
+  transition: 0.3s;
+  box-shadow: var(--glow-yellow);
+}
+
+.toggle-switch input:checked + .toggle-slider {
+  background-color: #1a3a1a;
+  border-color: var(--fids-green);
+}
+
+.toggle-switch input:checked + .toggle-slider:before {
+  transform: translateX(20px);
+  background-color: var(--fids-green);
+  box-shadow: var(--glow-green);
+}
+
+.toggle-label {
+  color: var(--fids-text);
+  font-size: 0.85rem;
+  min-width: 45px;
+}
+
+/* Embed both layout */
+.embed-both .boards-container {
+  margin: 0;
+}
+
+.embed-both .board {
+  margin-bottom: 0.5rem;
+}
+
+.embed-both .board-content {
+  max-height: calc(50vh - 80px);
+}
+
+/* Main container */
+main {
+  padding: 1rem;
+  padding-bottom: 60px; /* Space for fixed footer */
+}
+
+/* Airport Selector Page */
+.airport-selector {
+  padding: 2rem 0;
+}
+
+.airport-selector h1 {
+  color: var(--fids-yellow);
+  text-shadow: var(--glow-yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.search-box input {
+  background-color: var(--fids-bg-alt);
+  border: 2px solid #444;
+  color: var(--fids-text);
+  font-family: var(--fids-font);
+  font-size: 1.25rem;
+  padding: 1rem;
+}
+
+.search-box input:focus {
+  background-color: var(--fids-bg-alt);
+  border-color: var(--fids-yellow);
+  box-shadow: var(--glow-yellow);
+  color: var(--fids-text);
+  outline: none;
+}
+
+.search-box input::placeholder {
+  color: var(--fids-text-dim);
+}
+
+.airport-list {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.airport-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.airport-item:hover {
+  background-color: var(--fids-bg-alt);
+}
+
+.airport-item-main {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.airport-item-icao {
+  color: var(--fids-yellow);
+  font-size: 1.25rem;
+  font-weight: bold;
+  min-width: 60px;
+}
+
+.airport-item-iata {
+  color: var(--fids-text-dim);
+  font-size: 0.9rem;
+}
+
+.airport-item-name {
+  color: var(--fids-text);
+}
+
+.airport-item-traffic {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+}
+
+.traffic-dep {
+  color: var(--fids-green);
+}
+
+.traffic-arr {
+  color: var(--fids-blue);
+}
+
+.no-traffic {
+  color: var(--fids-text-dim);
+}
+
+/* Airport Display Page */
+.airport-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #333;
+}
+
+.airport-header h1 {
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.airport-code {
+  color: var(--fids-yellow);
+  font-size: 2rem;
+  text-shadow: var(--glow-yellow);
+}
+
+.airport-iata {
+  color: var(--fids-text-dim);
+  font-size: 1.25rem;
+}
+
+.airport-name {
+  color: var(--fids-text);
+  font-size: 1.25rem;
+}
+
+.embed-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.embed-buttons .btn {
+  font-family: var(--fids-font);
+  font-size: 0.75rem;
+}
+
+/* Boards */
+.boards-container {
+  margin: 0 -0.5rem;
+}
+
+.board {
+  background-color: var(--fids-bg-alt);
+  border: 2px solid #333;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.board-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-bottom: 2px solid #333;
+}
+
+.departures-board .board-header {
+  background-color: #1a1a00;
+  border-bottom-color: #444400;
+}
+
+.departures-board .board-header h2 {
+  color: var(--fids-yellow);
+  text-shadow: var(--glow-yellow);
+}
+
+.arrivals-board .board-header {
+  background-color: #001a1a;
+  border-bottom-color: #004444;
+}
+
+.arrivals-board .board-header h2 {
+  color: var(--fids-blue);
+  text-shadow: 0 0 10px rgba(0, 170, 255, 0.5);
+}
+
+.board-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  letter-spacing: 3px;
+}
+
+.update-time {
+  color: var(--fids-text-dim);
+  font-size: 0.8rem;
+}
+
+.board-content {
+  max-height: calc(100vh - 300px);
+  overflow-y: auto;
+}
+
+.standalone .board-content {
+  max-height: calc(100vh - 100px);
+}
+
+/* FIDS Table */
+.fids-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fids-table th,
+.fids-table td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #222;
+}
+
+.fids-table th {
+  background-color: #1a1a1a;
+  color: var(--fids-text-dim);
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: sticky;
+  top: 0;
+}
+
+.fids-table td {
+  font-size: 0.95rem;
+}
+
+.fids-table tbody tr:hover {
+  background-color: #1a1a1a;
+}
+
+/* Status Colors */
+.status-green {
+  color: var(--fids-green);
+  text-shadow: var(--glow-green);
+}
+
+.status-yellow {
+  color: var(--fids-yellow);
+  text-shadow: var(--glow-yellow);
+}
+
+.status-red {
+  color: var(--fids-red);
+  text-shadow: var(--glow-red);
+}
+
+.status-white {
+  color: var(--fids-text);
+}
+
+/* Callsign */
+.callsign {
+  color: var(--fids-yellow);
+  font-weight: bold;
+}
+
+/* Loading */
+.loading {
+  text-align: center;
+  color: var(--fids-text-dim);
+  padding: 2rem;
+  font-style: italic;
+}
+
+/* Empty state */
+.no-flights {
+  text-align: center;
+  color: var(--fids-text-dim);
+  padding: 2rem;
+}
+
+/* Modal */
+.modal-content {
+  background-color: var(--fids-bg-alt);
+  border: 2px solid #444;
+  color: var(--fids-text);
+}
+
+.modal-header {
+  border-bottom: 1px solid #444;
+}
+
+.modal-title {
+  color: var(--fids-yellow);
+}
+
+#embedCode {
+  background-color: var(--fids-bg);
+  border: 1px solid #444;
+  color: var(--fids-text);
+  font-family: var(--fids-font);
+  font-size: 0.8rem;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--fids-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Embed mode adjustments */
+.embed-mode {
+  background-color: var(--fids-bg);
+}
+
+.embed-mode .board {
+  margin-bottom: 0;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .airport-header {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .airport-header h1 {
+    flex-wrap: wrap;
+  }
+
+  .board-content {
+    max-height: 50vh;
+  }
+}
+
+@media (max-width: 576px) {
+  .fids-table th,
+  .fids-table td {
+    padding: 0.4rem 0.5rem;
+    font-size: 0.8rem;
+  }
+
+  .airport-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .navbar-warning {
+    position: static;
+    transform: none;
+    order: 3;
+    width: 100%;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+
+  .navbar .container-fluid {
+    flex-wrap: wrap;
+  }
+
+  .fixed-footer {
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.4rem;
+  }
+}
+
+/* Info Page */
+.info-page {
+  padding: 2rem 0;
+  padding-bottom: 80px;
+}
+
+.info-page h1 {
+  color: var(--fids-yellow);
+  text-shadow: var(--glow-yellow);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.info-section {
+  background-color: var(--fids-bg-alt);
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.info-section h2 {
+  color: var(--fids-blue);
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #333;
+}
+
+.info-section p {
+  color: var(--fids-text);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.info-section ul {
+  color: var(--fids-text);
+  padding-left: 1.5rem;
+  line-height: 1.8;
+}
+
+.info-section a {
+  color: var(--fids-blue);
+  text-decoration: none;
+}
+
+.info-section a:hover {
+  text-decoration: underline;
+}
+
+.info-section code {
+  background-color: var(--fids-bg);
+  color: var(--fids-yellow);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+}
+
+.info-section .formula {
+  display: block;
+  background-color: var(--fids-bg);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-left: 3px solid var(--fids-yellow);
+  font-size: 1rem;
+}
+
+/* Info Table */
+.info-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.info-table th,
+.info-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #333;
+}
+
+.info-table th {
+  background-color: #1a1a1a;
+  color: var(--fids-text-dim);
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.info-table td {
+  color: var(--fids-text);
+  line-height: 1.5;
+}
+
+.info-table td:first-child {
+  white-space: nowrap;
+  font-weight: bold;
+  width: 140px;
+}
+
+.back-link {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.back-link .btn {
+  font-family: var(--fids-font);
+}

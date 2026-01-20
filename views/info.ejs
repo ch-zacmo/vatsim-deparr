@@ -1,0 +1,176 @@
+<div class="info-page">
+  <div class="row justify-content-center">
+    <div class="col-lg-10">
+      <h1>Flight Status Information</h1>
+
+      <section class="info-section">
+        <h2>About VATSIM Deparr</h2>
+        <p>
+          VATSIM Deparr displays simulated airport departure and arrival screens using real-time data
+          from the <a href="https://vatsim.net" target="_blank">VATSIM</a> online flight simulation network.
+          All flights shown are virtual pilots flying on flight simulators, not real aircraft.
+        </p>
+      </section>
+
+      <section class="info-section">
+        <h2>Data Source</h2>
+        <p>
+          Flight data is obtained from the official VATSIM public API at
+          <code>https://data.vatsim.net/v3/vatsim-data.json</code>.
+          This data is refreshed every <strong>15 seconds</strong> to provide near real-time information.
+        </p>
+        <p>The API provides:</p>
+        <ul>
+          <li>Pilot positions (latitude, longitude, altitude)</li>
+          <li>Flight plans (departure, arrival, aircraft type, route)</li>
+          <li>Ground speed and heading</li>
+          <li>Connection times</li>
+        </ul>
+      </section>
+
+      <section class="info-section">
+        <h2>Departure Statuses</h2>
+        <table class="info-table">
+          <thead>
+            <tr>
+              <th>Status</th>
+              <th>How It's Determined</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="status-white">EXPECTED</td>
+              <td>Flight plan filed but the pilot has not yet arrived at the departure airport. The aircraft may still be at a different location.</td>
+            </tr>
+            <tr>
+              <td class="status-white">GO TO GATE</td>
+              <td>Aircraft is on the ground at the departure airport with low ground speed (&lt;5 kts). This is the initial state when a pilot connects at the gate.</td>
+            </tr>
+            <tr>
+              <td class="status-white">BOARDING</td>
+              <td>Aircraft is at the gate within 30 minutes of scheduled departure time.</td>
+            </tr>
+            <tr>
+              <td class="status-yellow">GATE CLOSED</td>
+              <td>Aircraft is at the gate within 10 minutes of scheduled departure time, indicating imminent pushback.</td>
+            </tr>
+            <tr>
+              <td class="status-yellow">TAXIING</td>
+              <td>Aircraft is on the ground at the departure airport with ground speed &ge;5 kts, indicating taxi to runway.</td>
+            </tr>
+            <tr>
+              <td class="status-green">DEPARTED</td>
+              <td>Aircraft is airborne (altitude &gt;2000ft or ground speed &gt;80 kts) and within 50nm of the departure airport.</td>
+            </tr>
+            <tr>
+              <td class="status-green">EN ROUTE</td>
+              <td>Aircraft is airborne and more than 50nm from the departure airport.</td>
+            </tr>
+            <tr>
+              <td class="status-red">DELAYED</td>
+              <td>Scheduled departure time has passed but the aircraft is still on the ground. Shows delay in minutes.</td>
+            </tr>
+            <tr>
+              <td class="status-red">NO SHOW</td>
+              <td>More than 60 minutes past scheduled departure time and the pilot is not at the departure airport. The flight is considered abandoned.</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="info-section">
+        <h2>Arrival Statuses</h2>
+        <table class="info-table">
+          <thead>
+            <tr>
+              <th>Status</th>
+              <th>How It's Determined</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="status-white">AT ORIGIN</td>
+              <td>Aircraft is still on the ground at the departure airport. The flight hasn't departed yet.</td>
+            </tr>
+            <tr>
+              <td class="status-yellow">ON GROUND</td>
+              <td>Aircraft is on the ground but not at the departure or arrival airport. May have diverted or landed elsewhere.</td>
+            </tr>
+            <tr>
+              <td class="status-white">EN ROUTE</td>
+              <td>Aircraft is airborne and more than 150nm from the arrival airport.</td>
+            </tr>
+            <tr>
+              <td class="status-white">ARRIVING</td>
+              <td>Aircraft is airborne and within 150nm of the arrival airport.</td>
+            </tr>
+            <tr>
+              <td class="status-white">APPROACHING</td>
+              <td>Aircraft is airborne and within 50nm of the arrival airport, typically on approach.</td>
+            </tr>
+            <tr>
+              <td class="status-yellow">LANDING</td>
+              <td>Aircraft is very close to the airport (&lt;10nm) and at low altitude, on final approach.</td>
+            </tr>
+            <tr>
+              <td class="status-yellow">TAXIING</td>
+              <td>Aircraft is on the ground at the arrival airport with ground speed &ge;5 kts.</td>
+            </tr>
+            <tr>
+              <td class="status-green">LANDED</td>
+              <td>Aircraft is on the ground at the arrival airport with low ground speed, indicating arrival at gate.</td>
+            </tr>
+            <tr>
+              <td class="status-red">CANCELED</td>
+              <td>Flight plan was filed (prefile) but the pilot never connected or departed. Shown when scheduled departure time + 60 minutes has passed.</td>
+            </tr>
+            <tr>
+              <td class="status-red">LOST</td>
+              <td>Aircraft was tracked in flight but suddenly disappeared from the network (pilot disconnected mid-flight, simulation crash, or network issues).</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="info-section">
+        <h2>ETA Calculation</h2>
+        <p>
+          Estimated Time of Arrival (ETA) is calculated using the aircraft's current position,
+          ground speed, and distance to the arrival airport. The formula is:
+        </p>
+        <code class="formula">ETA = Current Time + (Distance to Airport / Ground Speed)</code>
+        <p>
+          Note: This is a simplified calculation and doesn't account for route deviations,
+          approach patterns, or speed changes during descent.
+        </p>
+      </section>
+
+      <section class="info-section">
+        <h2>Distance Calculation</h2>
+        <p>
+          Distances are calculated using the <strong>Haversine formula</strong>, which computes
+          the great-circle distance between two points on a sphere given their latitudes and longitudes.
+          Results are shown in nautical miles (nm).
+        </p>
+      </section>
+
+      <section class="info-section">
+        <h2>Limitations</h2>
+        <ul>
+          <li>Gate assignments are not available from VATSIM data</li>
+          <li>Actual runway in use is not displayed</li>
+          <li>Status detection relies on position and speed thresholds, which may occasionally be inaccurate</li>
+          <li>Some airports may not be in our database, showing only ICAO codes</li>
+        </ul>
+      </section>
+
+      <div class="back-link">
+        <a href="/" class="btn btn-outline-light">&larr; Back to Airport Selection</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  window.PAGE_TYPE = 'info';
+</script>

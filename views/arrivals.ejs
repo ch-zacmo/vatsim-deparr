@@ -1,0 +1,28 @@
+<div class="board arrivals-board standalone">
+  <div class="board-header">
+    <h2>ARRIVALS - <%= airportName %> (<%= icao %>)</h2>
+    <span class="update-time" id="arrUpdateTime"></span>
+  </div>
+  <div class="board-content">
+    <table class="fids-table">
+      <thead>
+        <tr>
+          <th>TIME</th>
+          <th>FLIGHT</th>
+          <th>ORIGIN</th>
+          <th>AIRCRAFT</th>
+          <th>GATE</th>
+          <th>STATUS</th>
+        </tr>
+      </thead>
+      <tbody id="arrivalsBody">
+        <tr><td colspan="6" class="loading">Loading...</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+  window.PAGE_TYPE = 'arrivals';
+  window.AIRPORT_ICAO = '<%= icao %>';
+</script>
