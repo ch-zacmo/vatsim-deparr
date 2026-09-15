@@ -76994,5 +76994,1725 @@
       }
     ],
     "fetchedAt": "2026-01-20T15:46:36.187Z"
+  },
+  "AGAF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:24.485Z"
+  },
+  "AGAR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:31.519Z"
+  },
+  "AGAT": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:38.727Z"
+  },
+  "AGBA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:48.515Z"
+  },
+  "AGBT": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:55.742Z"
+  },
+  "AGEV": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:53:57.965Z"
+  },
+  "AGGA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:00.526Z"
+  },
+  "AGGB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:07.558Z"
+  },
+  "AGGC": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:09.729Z"
+  },
+  "AGGE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:16.442Z"
+  },
+  "AGGF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:18.636Z"
+  },
+  "AGGH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:25.585Z"
+  },
+  "AGGI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:27.739Z"
+  },
+  "AGGJ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:29.853Z"
+  },
+  "AGGK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:34.180Z"
+  },
+  "AGGL": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:41.659Z"
+  },
+  "AGGM": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:49.433Z"
+  },
+  "AGGN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:54:56.664Z"
+  },
+  "AGGO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:01.016Z"
+  },
+  "AGGP": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:03.236Z"
+  },
+  "AGGQ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:05.419Z"
+  },
+  "AGGR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:07.932Z"
+  },
+  "AGGS": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:14.605Z"
+  },
+  "AGGT": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:21.339Z"
+  },
+  "AGGU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:23.548Z"
+  },
+  "AGGV": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:26.056Z"
+  },
+  "AGGY": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:28.548Z"
+  },
+  "AGJO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:30.721Z"
+  },
+  "AGKG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:37.484Z"
+  },
+  "AGKU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:43.574Z"
+  },
+  "AGKW": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:54.615Z"
+  },
+  "AGNA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:56.807Z"
+  },
+  "AGOK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:55:59.309Z"
+  },
+  "AGRC": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:06.841Z"
+  },
+  "AGRM": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:13.715Z"
+  },
+  "AGTI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:20.671Z"
+  },
+  "ANYN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:27.605Z"
+  },
+  "ATNR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:30.735Z"
+  },
+  "AYAA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:32.909Z"
+  },
+  "AYAE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:35.388Z"
+  },
+  "AYAF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:37.611Z"
+  },
+  "AYAG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:43.380Z"
+  },
+  "AYAI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:49.411Z"
+  },
+  "AYAK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:56:55.492Z"
+  },
+  "AYAM": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:02.885Z"
+  },
+  "AYAN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:05.390Z"
+  },
+  "AYAO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:12.658Z"
+  },
+  "AYAQ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:14.847Z"
+  },
+  "AYAT": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:18.239Z"
+  },
+  "AYAW": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:24.293Z"
+  },
+  "AYAX": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:31.525Z"
+  },
+  "AYAY": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:38.733Z"
+  },
+  "AYBA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:40.897Z"
+  },
+  "AYBC": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:43.109Z"
+  },
+  "AYBD": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:45.879Z"
+  },
+  "AYBF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:52.493Z"
+  },
+  "AYBG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:57:59.758Z"
+  },
+  "AYBH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:09.619Z"
+  },
+  "AYBI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:16.565Z"
+  },
+  "AYBK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:24.285Z"
+  },
+  "AYBL": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:26.813Z"
+  },
+  "AYBM": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:33.694Z"
+  },
+  "AYBO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:40.576Z"
+  },
+  "AYBP": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:47.767Z"
+  },
+  "AYBQ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:52.075Z"
+  },
+  "AYBR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:58:59.555Z"
+  },
+  "AYBU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:09.505Z"
+  },
+  "AYBZ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:11.675Z"
+  },
+  "AYCB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:18.501Z"
+  },
+  "AYCG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:25.638Z"
+  },
+  "AYCH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:32.646Z"
+  },
+  "AYCS": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:39.574Z"
+  },
+  "AYDB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:42.657Z"
+  },
+  "AYDE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:45.759Z"
+  },
+  "AYDI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T17:59:49.471Z"
+  },
+  "AYDK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:01.735Z"
+  },
+  "AYDL": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:08.632Z"
+  },
+  "AYDN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:12.640Z"
+  },
+  "AYDO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:19.525Z"
+  },
+  "AYDR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:26.798Z"
+  },
+  "AYDU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:33.493Z"
+  },
+  "AYEA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:40.594Z"
+  },
+  "AYEB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:47.461Z"
+  },
+  "AYED": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:50.559Z"
+  },
+  "AYEE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:00:59.853Z"
+  },
+  "AYEF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:02.413Z"
+  },
+  "AYEH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:09.531Z"
+  },
+  "AYEL": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:16.859Z"
+  },
+  "AYEN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:21.231Z"
+  },
+  "AYEO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:28.819Z"
+  },
+  "AYER": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:31.689Z"
+  },
+  "AYET": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:38.589Z"
+  },
+  "AYEV": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:40.763Z"
+  },
+  "AYEW": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:43.552Z"
+  },
+  "AYFA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:01:50.561Z"
+  },
+  "AYFE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:03.324Z"
+  },
+  "AYFI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:10.545Z"
+  },
+  "AYFR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:17.621Z"
+  },
+  "AYFU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:24.539Z"
+  },
+  "AYGA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:31.491Z"
+  },
+  "AYGC": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:38.535Z"
+  },
+  "AYGF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:40.796Z"
+  },
+  "AYGG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:43.003Z"
+  },
+  "AYGI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:50.760Z"
+  },
+  "AYGJ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:53.324Z"
+  },
+  "AYGL": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:02:55.887Z"
+  },
+  "AYGN": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:05.625Z"
+  },
+  "AYGP": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:08.229Z"
+  },
+  "AYGR": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:10.476Z"
+  },
+  "AYGS": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:17.827Z"
+  },
+  "AYGT": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:20.076Z"
+  },
+  "AYGU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:22.673Z"
+  },
+  "AYGV": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:29.620Z"
+  },
+  "AYGX": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:36.598Z"
+  },
+  "AYHB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:43.520Z"
+  },
+  "AYHE": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:47.433Z"
+  },
+  "AYHF": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:03:54.540Z"
+  },
+  "AYHH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:00.801Z"
+  },
+  "AYHK": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:07.884Z"
+  },
+  "AYHO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:15.549Z"
+  },
+  "AYHU": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:21.102Z"
+  },
+  "AYIA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:28.560Z"
+  },
+  "AYID": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:35.617Z"
+  },
+  "AYII": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:38.605Z"
+  },
+  "AYIM": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:41.692Z"
+  },
+  "AYIO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:48.729Z"
+  },
+  "AYIQ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:50.975Z"
+  },
+  "AYIW": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:04:53.275Z"
+  },
+  "AYIX": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:00.468Z"
+  },
+  "AYIY": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:05.756Z"
+  },
+  "AYJO": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:13.701Z"
+  },
+  "AYJS": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:20.515Z"
+  },
+  "AYKA": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:25.670Z"
+  },
+  "AYKB": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:32.704Z"
+  },
+  "AYKC": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:34.904Z"
+  },
+  "AYKD": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:37.111Z"
+  },
+  "AYKG": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:44.765Z"
+  },
+  "AYKH": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:51.849Z"
+  },
+  "AYKI": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:05:59.733Z"
+  },
+  "AYKJ": {
+    "gates": [],
+    "fetchedAt": "2026-01-20T18:06:09.505Z"
+  },
+  "AYKK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:02.266Z"
+  },
+  "AYKM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:04.536Z"
+  },
+  "AYKO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:17.840Z"
+  },
+  "AYKQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:29.197Z"
+  },
+  "AYKR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:34.188Z"
+  },
+  "AYKT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:37.634Z"
+  },
+  "AYKU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:48:53.773Z"
+  },
+  "AYKV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:51:06.911Z"
+  },
+  "AYKW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:53:20.068Z"
+  },
+  "AYKY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T11:55:33.275Z"
+  },
+  "AYLB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:17.438Z"
+  },
+  "AYLG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:19.450Z"
+  },
+  "AYLI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:21.460Z"
+  },
+  "AYLL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:23.469Z"
+  },
+  "AYLN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:25.478Z"
+  },
+  "AYLO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:27.500Z"
+  },
+  "AYLP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:29.510Z"
+  },
+  "AYLS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:31.522Z"
+  },
+  "AYLT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:33.540Z"
+  },
+  "AYLU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:35.551Z"
+  },
+  "AYLX": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:37.578Z"
+  },
+  "AYMA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:39.590Z"
+  },
+  "AYMB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:41.608Z"
+  },
+  "AYMC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:43.619Z"
+  },
+  "AYMD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:45.634Z"
+  },
+  "AYMH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:47.642Z"
+  },
+  "AYMI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:49.655Z"
+  },
+  "AYMJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:51.670Z"
+  },
+  "AYML": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:53.683Z"
+  },
+  "AYMN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:55.696Z"
+  },
+  "AYMO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:57.716Z"
+  },
+  "AYMP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:04:59.729Z"
+  },
+  "AYMQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:01.749Z"
+  },
+  "AYMR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:03.759Z"
+  },
+  "AYMS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:05.778Z"
+  },
+  "AYMV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:07.808Z"
+  },
+  "AYMW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:09.827Z"
+  },
+  "AYMZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:11.839Z"
+  },
+  "AYNA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:13.851Z"
+  },
+  "AYNB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:15.860Z"
+  },
+  "AYNC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:17.892Z"
+  },
+  "AYND": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:19.903Z"
+  },
+  "AYNE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:21.920Z"
+  },
+  "AYNI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:23.941Z"
+  },
+  "AYNJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:25.960Z"
+  },
+  "AYNM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:27.980Z"
+  },
+  "AYNN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:30.000Z"
+  },
+  "AYNO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:32.011Z"
+  },
+  "AYNS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:34.024Z"
+  },
+  "AYNU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:05:36.042Z"
+  },
+  "AYNX": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:02.380Z"
+  },
+  "AYNY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:04.410Z"
+  },
+  "AYNZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:06.435Z"
+  },
+  "AYOB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:08.458Z"
+  },
+  "AYOE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:10.491Z"
+  },
+  "AYOF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:12.515Z"
+  },
+  "AYOG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:14.546Z"
+  },
+  "AYOJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:16.569Z"
+  },
+  "AYOK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:18.592Z"
+  },
+  "AYOL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:20.626Z"
+  },
+  "AYOM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:22.670Z"
+  },
+  "AYOO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:24.696Z"
+  },
+  "AYOP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:26.730Z"
+  },
+  "AYOQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:28.762Z"
+  },
+  "AYOV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:30.796Z"
+  },
+  "AYOW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:32.828Z"
+  },
+  "AYPB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:34.860Z"
+  },
+  "AYPC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:36.887Z"
+  },
+  "AYPD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:38.910Z"
+  },
+  "AYPE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:40.946Z"
+  },
+  "AYPG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:42.978Z"
+  },
+  "AYPJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:45.013Z"
+  },
+  "AYPO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:47.037Z"
+  },
+  "AYPQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:49.065Z"
+  },
+  "AYPY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:51.098Z"
+  },
+  "AYQA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:53.123Z"
+  },
+  "AYQL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:55.147Z"
+  },
+  "AYQO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:57.179Z"
+  },
+  "AYQQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:06:59.205Z"
+  },
+  "AYQS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:01.237Z"
+  },
+  "AYRA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:03.282Z"
+  },
+  "AYRE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:05.304Z"
+  },
+  "AYRG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:07.328Z"
+  },
+  "AYRI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:09.354Z"
+  },
+  "AYRK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:11.382Z"
+  },
+  "AYRM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:13.416Z"
+  },
+  "AYRO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:15.440Z"
+  },
+  "AYSA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:17.465Z"
+  },
+  "AYSD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:19.488Z"
+  },
+  "AYSE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:21.517Z"
+  },
+  "AYSF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:23.557Z"
+  },
+  "AYSG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:25.583Z"
+  },
+  "AYSH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:27.605Z"
+  },
+  "AYSJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:29.638Z"
+  },
+  "AYSK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:31.669Z"
+  },
+  "AYSL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:33.697Z"
+  },
+  "AYSO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:35.732Z"
+  },
+  "AYSP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:37.759Z"
+  },
+  "AYSS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:39.788Z"
+  },
+  "AYSU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:41.812Z"
+  },
+  "AYSV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:43.847Z"
+  },
+  "AYSW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:45.870Z"
+  },
+  "AYSX": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:47.892Z"
+  },
+  "AYTA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:49.920Z"
+  },
+  "AYTB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:51.947Z"
+  },
+  "AYTE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:53.975Z"
+  },
+  "AYTF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:56.000Z"
+  },
+  "AYTG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:07:58.027Z"
+  },
+  "AYTH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:00.056Z"
+  },
+  "AYTI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:02.092Z"
+  },
+  "AYTK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:04.135Z"
+  },
+  "AYTN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:06.168Z"
+  },
+  "AYTO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:08.197Z"
+  },
+  "AYTP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:10.224Z"
+  },
+  "AYTR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:12.252Z"
+  },
+  "AYTS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:14.288Z"
+  },
+  "AYTT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:16.310Z"
+  },
+  "AYTU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:18.343Z"
+  },
+  "AYTV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:20.369Z"
+  },
+  "AYTW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:22.389Z"
+  },
+  "AYTY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:24.427Z"
+  },
+  "AYTZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:26.450Z"
+  },
+  "AYUC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:28.479Z"
+  },
+  "AYUE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:30.500Z"
+  },
+  "AYUI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:32.522Z"
+  },
+  "AYUM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:34.556Z"
+  },
+  "AYUP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:36.582Z"
+  },
+  "AYUR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:38.607Z"
+  },
+  "AYUY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:40.632Z"
+  },
+  "AYUZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:42.658Z"
+  },
+  "AYVL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:44.699Z"
+  },
+  "AYVM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:46.728Z"
+  },
+  "AYVN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:48.760Z"
+  },
+  "AYVO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:50.796Z"
+  },
+  "AYVW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:52.819Z"
+  },
+  "AYWB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:54.842Z"
+  },
+  "AYWC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:56.877Z"
+  },
+  "AYWD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:08:58.911Z"
+  },
+  "AYWF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:00.936Z"
+  },
+  "AYWG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:02.962Z"
+  },
+  "AYWH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:04.999Z"
+  },
+  "AYWJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:07.027Z"
+  },
+  "AYWK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:09.052Z"
+  },
+  "AYWO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:11.078Z"
+  },
+  "AYWQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:13.113Z"
+  },
+  "AYWS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:15.136Z"
+  },
+  "AYWT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:17.168Z"
+  },
+  "AYWU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:19.191Z"
+  },
+  "AYXE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:21.218Z"
+  },
+  "AYXI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:23.255Z"
+  },
+  "AYXO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:25.302Z"
+  },
+  "AYXP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:27.475Z"
+  },
+  "AYXW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:29.504Z"
+  },
+  "AYYE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:31.536Z"
+  },
+  "AYYK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:33.564Z"
+  },
+  "AYYL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:35.586Z"
+  },
+  "AYYM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:37.612Z"
+  },
+  "AYYO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:39.641Z"
+  },
+  "AYYP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:41.669Z"
+  },
+  "AYYR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:43.698Z"
+  },
+  "AYZA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:45.729Z"
+  },
+  "AYZI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:47.754Z"
+  },
+  "AYZN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:49.780Z"
+  },
+  "AYZS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:51.804Z"
+  },
+  "BGAA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:53.827Z"
+  },
+  "BGBW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:55.851Z"
+  },
+  "BGCH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:57.876Z"
+  },
+  "BGCO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:09:59.912Z"
+  },
+  "BGGH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:01.938Z"
+  },
+  "BGJN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:03.960Z"
+  },
+  "BGKK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:06.001Z"
+  },
+  "BGMQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:08.026Z"
+  },
+  "BGPT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:10.063Z"
+  },
+  "BGQQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:12.098Z"
+  },
+  "BGSF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:14.125Z"
+  },
+  "BGSS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:16.147Z"
+  },
+  "BGTL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:18.172Z"
+  },
+  "BGUK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:20.203Z"
+  },
+  "BGUM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:22.231Z"
+  },
+  "BGUQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:24.256Z"
+  },
+  "BIAR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:26.298Z"
+  },
+  "BIBD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:28.331Z"
+  },
+  "BIBF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:30.357Z"
+  },
+  "BIBK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:32.387Z"
+  },
+  "BIBL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:34.419Z"
+  },
+  "BIBV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:36.446Z"
+  },
+  "BIDV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:38.472Z"
+  },
+  "BIEG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:40.508Z"
+  },
+  "BIFF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:42.536Z"
+  },
+  "BIFM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:44.559Z"
+  },
+  "BIGF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:46.609Z"
+  },
+  "BIGJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:48.640Z"
+  },
+  "BIGR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:50.682Z"
+  },
+  "BIHK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:52.712Z"
+  },
+  "BIHN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:54.747Z"
+  },
+  "BIHU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:56.771Z"
+  },
+  "BIIS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:10:58.793Z"
+  },
+  "BIKF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:00.820Z"
+  },
+  "BIKP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:02.842Z"
+  },
+  "BIKR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:04.878Z"
+  },
+  "BINF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:06.916Z"
+  },
+  "BIOF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:08.942Z"
+  },
+  "BIPA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:10.978Z"
+  },
+  "BIRE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:13.006Z"
+  },
+  "BIRF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:15.033Z"
+  },
+  "BIRG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:17.061Z"
+  },
+  "BIRK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:19.095Z"
+  },
+  "BIRL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:21.120Z"
+  },
+  "BISI": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:23.148Z"
+  },
+  "BIST": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:25.173Z"
+  },
+  "BITE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:27.217Z"
+  },
+  "BITN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:29.241Z"
+  },
+  "BIVM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:31.268Z"
+  },
+  "BIVO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:33.305Z"
+  },
+  "BKPR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:35.328Z"
+  },
+  "CBBC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:37.367Z"
+  },
+  "CYAB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:39.404Z"
+  },
+  "CYAC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:41.432Z"
+  },
+  "CYAD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:43.460Z"
+  },
+  "CYAG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:45.494Z"
+  },
+  "CYAH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:47.531Z"
+  },
+  "CYAL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:49.557Z"
+  },
+  "CYAM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:51.588Z"
+  },
+  "CYAQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:53.614Z"
+  },
+  "CYAS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:55.640Z"
+  },
+  "CYAT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:57.671Z"
+  },
+  "CYAY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:11:59.704Z"
+  },
+  "CYAZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:01.734Z"
+  },
+  "CYBA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:03.769Z"
+  },
+  "CYBB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:05.805Z"
+  },
+  "CYBC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:07.849Z"
+  },
+  "CYBD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:09.885Z"
+  },
+  "CYBE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:11.921Z"
+  },
+  "CYBF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:13.945Z"
+  },
+  "CYBG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:15.970Z"
+  },
+  "CYBH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:17.997Z"
+  },
+  "CYBK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:20.030Z"
+  },
+  "CYBL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:22.063Z"
+  },
+  "CYBQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:24.092Z"
+  },
+  "CYBR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:26.117Z"
+  },
+  "CYBT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:28.153Z"
+  },
+  "CYBV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:30.181Z"
+  },
+  "CYBX": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:32.209Z"
+  },
+  "CYCA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:34.236Z"
+  },
+  "CYCB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:36.272Z"
+  },
+  "CYCC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:38.293Z"
+  },
+  "CYCD": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:40.326Z"
+  },
+  "CYCE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:42.353Z"
+  },
+  "CYCG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:44.381Z"
+  },
+  "CYCH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:46.407Z"
+  },
+  "CYCK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:48.459Z"
+  },
+  "CYCL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:50.488Z"
+  },
+  "CYCN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:52.662Z"
+  },
+  "CYCO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:54.690Z"
+  },
+  "CYCQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:56.720Z"
+  },
+  "CYCR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:12:58.753Z"
+  },
+  "CYCS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:00.774Z"
+  },
+  "CYCT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:02.803Z"
+  },
+  "CYCW": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:04.826Z"
+  },
+  "CYCY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:06.861Z"
+  },
+  "CYCZ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:08.900Z"
+  },
+  "CYDA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:10.925Z"
+  },
+  "CYDB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:12.947Z"
+  },
+  "CYDF": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:14.969Z"
+  },
+  "CYDL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:16.992Z"
+  },
+  "CYDM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:19.017Z"
+  },
+  "CYDN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:21.048Z"
+  },
+  "CYDO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:23.071Z"
+  },
+  "CYDP": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:25.098Z"
+  },
+  "CYDQ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:27.123Z"
+  },
+  "CYEG": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:29.162Z"
+  },
+  "CYEK": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:31.189Z"
+  },
+  "CYEL": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:33.212Z"
+  },
+  "CYEM": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:35.239Z"
+  },
+  "CYEN": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:37.266Z"
+  },
+  "CYER": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:39.291Z"
+  },
+  "CYET": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:41.316Z"
+  },
+  "CYEU": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:43.343Z"
+  },
+  "CYEV": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:45.368Z"
+  },
+  "CYEY": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:13:47.393Z"
+  },
+  "CYFA": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:14:52.574Z"
+  },
+  "CYFB": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:02.350Z"
+  },
+  "CYFC": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:12.076Z"
+  },
+  "CYFE": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:21.807Z"
+  },
+  "CYFH": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:31.596Z"
+  },
+  "CYFJ": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:41.390Z"
+  },
+  "CYFO": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:15:51.174Z"
+  },
+  "CYFR": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:16:00.928Z"
+  },
+  "CYFS": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:16:10.709Z"
+  },
+  "CYFT": {
+    "gates": [],
+    "fetchedAt": "2026-09-15T12:16:20.501Z"
   }
 }
