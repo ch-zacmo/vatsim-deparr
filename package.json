@@ -1,6 +1,6 @@
 {
   "name": "vatsim-deparr",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Simulated departure and arrival screen found in airports from VATSIM data",
   "license": "MIT",
   "author": "Zacharie Monnet <zacmo-dev@axynth.ch>",
